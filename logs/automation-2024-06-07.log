@@ -1,0 +1,92 @@
+12:36:00.429 [main] INFO  testCases.HomePageTest - ******************* Strating Be.Cognizant ***********************
+12:36:01.496 [main] ERROR testCases.HomePageTest - can't scroll to News 
+12:36:02.279 [main] ERROR testCases.HomePageTest - can't scroll to IT Awards 
+12:36:05.707 [main] INFO  testCases.HomePageTest - Clicked on profile
+12:36:06.830 [main] INFO  testCases.HomePageTest - Name Displayed : V, Vishnu (Contractor)
+12:36:08.012 [main] INFO  testCases.HomePageTest - Email Displayed : 2318906@cognizant.com
+12:36:09.755 [main] INFO  testCases.HomePageTest - cooprative function clicked....
+12:36:20.535 [main] INFO  testCases.HomePageTest - ******************* Strating Golabl IT ***********************
+12:36:21.527 [main] ERROR testCases.HomePageTest - can't scroll to IT Awards 
+12:36:31.146 [main] INFO  testCases.HomePageTest - IT Outage Alert is Available
+12:37:01.815 [main] ERROR testCases.HomePageTest - Something went wringorg.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.79)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [b43ae02e57031d41e699cdaff0731281, findElements {value=//div[contains(@class,'al')]/following-sibling::div//div/a[@data-automation-id='newsItemTitle'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 125.0.2535.79, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:64307}, msedge: {msedgedriverVersion: 125.0.2535.85 (e6ab02d819c1..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64307/devtoo..., se:cdpVersion: 125.0.2535.79, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b43ae02e57031d41e699cdaff0731281
+12:37:01.826 [main] ERROR testCases.HomePageTest - Something went wrongorg.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.79)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [b43ae02e57031d41e699cdaff0731281, findElements {value=//div[contains(@aria-label,'Focus on news posts list')]//a[@data-automation-id='newsItemTitle'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 125.0.2535.79, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:64307}, msedge: {msedgedriverVersion: 125.0.2535.85 (e6ab02d819c1..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64307/devtoo..., se:cdpVersion: 125.0.2535.79, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b43ae02e57031d41e699cdaff0731281
+12:37:13.258 [main] INFO  testCases.HomePageTest - ******************* Strating Be.Cognizant ***********************
+12:37:18.552 [main] INFO  testCases.HomePageTest - Clicked on profile
+12:37:19.762 [main] INFO  testCases.HomePageTest - Name Displayed : V, Vishnu (Contractor)
+12:37:20.742 [main] INFO  testCases.HomePageTest - Email Displayed : 2318906@cognizant.com
+12:37:22.002 [main] INFO  testCases.HomePageTest - cooprative function clicked....
+12:37:31.537 [main] INFO  testCases.HomePageTest - ******************* Strating Golabl IT ***********************
+12:37:40.418 [main] INFO  testCases.HomePageTest - IT Outage Alert is Available
+12:37:52.502 [main] INFO  testCases.HomePageTest - Microsoft Teams is Available
+12:38:08.070 [main] INFO  testCases.HomePageTest - One Drive is Available
+12:38:18.586 [main] INFO  testCases.HomePageTest - Global IT Internal Events is Available
+12:38:30.419 [main] INFO  testCases.HomePageTest - Global Information Technology Documents is Available
+12:38:36.061 [main] INFO  testCases.HomePageTest - IT News is Avilabale
+12:38:36.972 [main] INFO  testCases.HomePageTest - IT Awards                                                                                                              is Avilabale
+12:38:37.872 [main] INFO  testCases.HomePageTest - Total news : 12
+12:38:41.053 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+12:38:41.225 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+12:38:41.531 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+12:38:41.785 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+12:38:42.010 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+12:38:42.289 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+12:38:42.577 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+12:38:42.878 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+12:38:43.087 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+12:38:43.238 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+12:38:43.420 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+12:38:43.561 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+12:38:51.411 [main] INFO  testCases.HomePageTest - NEWS : 
+Cognizant IT (GEO-MWS) Team Wins Award for Best Internal IT Deployment
+Congratulations to the Cognizant IT (GEO-MWS) team for being awarded the honor of being the Best Internal IT Deployment of LogMeIn Rescue in the GST Virtual Think Tank 2024. The LogMeIn Rescue is a platform on which our Global Service Desk (GSD) team relies to support all our associates globally.
+ 
+The award was presented based on the usage, adoption and KPI achievement of the platform, and our team ticked all the boxes of the measurement criteria. Kudos to everyone involved in this achievement. 
+
+12:38:58.822 [main] INFO  testCases.HomePageTest - NEWS : 
+Rishabh Raj becomes EC Council Disaster Recovery Professional
+Congratulations to Rishabh Raj, Sr. Business Analyst, from the IT Resilience Office for successfully completing an external certification - EC Council Disaster Recovery Professional (EDRP). The achievement has equipped him with extensive knowledge on the effective strategies for data backup, system redundancy, availability, and incident response. This would help the concerned team in effectively dealing with potential disasters and ensuring continuity to the critical IT applications.
+
+12:39:11.576 [main] INFO  testCases.HomePageTest - NEWS : 
+IT Team Wins Two Awards at the DevOps India Summit 2023
+Congratulations to the IT team for winning the “DevSecOps Cultural Transformation Award” and the “Best Value Stream Management (VSM) Implementation Project” award at the prestigious DevOps India Summit 2023, organized by Xellentro.com.
+The honor was awarded for the best implementation of DevSecOps within IT, which transformed and optimized delivery excellence, customer satisfaction, and operational effectiveness.
+
+13:45:56.151 [main] INFO  testCases.HomePageTest - ******************* Strating Be.Cognizant ***********************
+13:45:56.408 [main] INFO  testCases.HomePageTest - Clicked on profile
+13:46:19.498 [main] INFO  testCases.HomePageTest - ******************* Strating Be.Cognizant ***********************
+13:46:24.521 [main] INFO  testCases.HomePageTest - Clicked on profile
+13:46:25.701 [main] INFO  testCases.HomePageTest - Name Displayed : V, Vishnu (Contractor)
+13:46:27.118 [main] INFO  testCases.HomePageTest - Email Displayed : 2318906@cognizant.com
+13:46:29.256 [main] INFO  testCases.HomePageTest - cooprative function clicked....
+13:46:38.082 [main] INFO  testCases.HomePageTest - ******************* Strating Golabl IT ***********************
+13:46:47.581 [main] INFO  testCases.HomePageTest - IT Outage Alert is Available
+13:46:56.431 [main] INFO  testCases.HomePageTest - Microsoft Teams is Available
+13:47:06.011 [main] INFO  testCases.HomePageTest - One Drive is Available
+13:47:14.799 [main] INFO  testCases.HomePageTest - Global IT Internal Events is Available
+13:47:23.242 [main] INFO  testCases.HomePageTest - Global Information Technology Documents is Available
+13:47:28.822 [main] INFO  testCases.HomePageTest - IT News is Avilabale
+13:47:29.694 [main] INFO  testCases.HomePageTest - IT Awards                                                                                                              is Avilabale
+13:47:30.214 [main] INFO  testCases.HomePageTest - Total news : 12
+13:47:33.393 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+13:47:33.552 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+13:47:33.702 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+13:47:33.849 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+13:47:33.998 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+13:47:34.148 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+13:47:34.291 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True

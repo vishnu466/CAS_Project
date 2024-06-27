@@ -1,0 +1,91 @@
+15:37:57.219 [main] ERROR testCases.HomePageTest - Somthing went wrongorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[normalize-space()='IT']"}
+  (Session info: MicrosoftEdge=125.0.2535.79)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [572c50736daf52330ede6050d1bc8af4, findElement {value=//span[normalize-space()='IT'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 125.0.2535.79, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:59895}, msedge: {msedgedriverVersion: 125.0.2535.85 (e6ab02d819c1..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59895/devtoo..., se:cdpVersion: 125.0.2535.79, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 572c50736daf52330ede6050d1bc8af4
+15:37:57.229 [main] INFO  testCases.HomePageTest - ******************* Strating Golabl IT ***********************
+15:38:37.924 [main] ERROR testCases.HomePageTest - can't scroll to News 
+15:39:08.561 [main] ERROR testCases.HomePageTest - can't scroll to IT Awards 
+15:40:08.746 [main] ERROR testCases.HomePageTest - Something went wringorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of all [] (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 125.0.2535.79, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:59895}, msedge: {msedgedriverVersion: 125.0.2535.85 (e6ab02d819c1..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59895/devtoo..., se:cdpVersion: 125.0.2535.79, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 572c50736daf52330ede6050d1bc8af4
+19:33:21.862 [main] INFO  testCases.HomePageTest - ******************* Strating Be.Cognizant ***********************
+19:33:34.515 [main] INFO  testCases.HomePageTest - Clicked on profile
+19:33:35.264 [main] INFO  testCases.HomePageTest - Name Displayed : N, Yashvanth (Contractor)
+19:33:36.249 [main] INFO  testCases.HomePageTest - Email Displayed : 2318647@cognizant.com
+19:33:38.691 [main] INFO  testCases.HomePageTest - cooprative function clicked....
+19:33:44.435 [main] INFO  testCases.HomePageTest - ******************* Strating Golabl IT ***********************
+19:33:58.342 [main] INFO  testCases.HomePageTest - IT Outage Alert is Available
+19:34:07.592 [main] INFO  testCases.HomePageTest - Microsoft Teams is Available
+19:34:17.752 [main] INFO  testCases.HomePageTest - One Drive is Available
+19:34:28.378 [main] INFO  testCases.HomePageTest - Global IT Internal Events is Available
+19:34:39.835 [main] INFO  testCases.HomePageTest - Global Information Technology Documents is Available
+19:34:45.398 [main] INFO  testCases.HomePageTest - IT News is Avilabale
+19:34:45.930 [main] INFO  testCases.HomePageTest - IT Awards                                                                                                              is Avilabale
+19:34:46.244 [main] INFO  testCases.HomePageTest - Total news : 12
+19:34:48.173 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:34:48.293 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:34:48.437 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:34:48.614 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:34:48.790 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:34:48.964 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:34:49.123 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:34:49.264 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:34:49.403 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:34:49.599 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:34:49.800 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:34:50.022 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:34:56.719 [main] INFO  testCases.HomePageTest - NEWS : 
+Cognizant IT (GEO-MWS) Team Wins Award for Best Internal IT Deployment
+Congratulations to the Cognizant IT (GEO-MWS) team for being awarded the honor of being the Best Internal IT Deployment of LogMeIn Rescue in the GST Virtual Think Tank 2024. The LogMeIn Rescue is a platform on which our Global Service Desk (GSD) team relies to support all our associates globally.
+ 
+The award was presented based on the usage, adoption and KPI achievement of the platform, and our team ticked all the boxes of the measurement criteria. Kudos to everyone involved in this achievement. 
+
+19:35:02.752 [main] INFO  testCases.HomePageTest - NEWS : 
+Rishabh Raj becomes EC Council Disaster Recovery Professional
+Congratulations to Rishabh Raj, Sr. Business Analyst, from the IT Resilience Office for successfully completing an external certification - EC Council Disaster Recovery Professional (EDRP). The achievement has equipped him with extensive knowledge on the effective strategies for data backup, system redundancy, availability, and incident response. This would help the concerned team in effectively dealing with potential disasters and ensuring continuity to the critical IT applications.
+
+19:35:09.911 [main] INFO  testCases.HomePageTest - NEWS : 
+IT Team Wins Two Awards at the DevOps India Summit 2023
+Congratulations to the IT team for winning the “DevSecOps Cultural Transformation Award” and the “Best Value Stream Management (VSM) Implementation Project” award at the prestigious DevOps India Summit 2023, organized by Xellentro.com.
+The honor was awarded for the best implementation of DevSecOps within IT, which transformed and optimized delivery excellence, customer satisfaction, and operational effectiveness.
+
+19:35:36.039 [main] INFO  testCases.HomePageTest - ******************* Strating Be.Cognizant ***********************
+19:35:46.614 [main] INFO  testCases.HomePageTest - Clicked on profile
+19:35:47.013 [main] INFO  testCases.HomePageTest - Name Displayed : N, Yashvanth (Contractor)
+19:35:47.343 [main] INFO  testCases.HomePageTest - Email Displayed : 2318647@cognizant.com
+19:35:47.940 [main] INFO  testCases.HomePageTest - cooprative function clicked....
+19:35:57.506 [main] INFO  testCases.HomePageTest - ******************* Strating Golabl IT ***********************
+19:36:07.878 [main] INFO  testCases.HomePageTest - IT Outage Alert is Available
+19:36:16.381 [main] INFO  testCases.HomePageTest - Microsoft Teams is Available
+19:36:24.992 [main] INFO  testCases.HomePageTest - One Drive is Available
+19:36:33.955 [main] INFO  testCases.HomePageTest - Global IT Internal Events is Available
+19:36:43.175 [main] INFO  testCases.HomePageTest - Global Information Technology Documents is Available
+19:36:48.804 [main] INFO  testCases.HomePageTest - IT News is Avilabale
+19:36:49.730 [main] INFO  testCases.HomePageTest - IT Awards                                                                                                              is Avilabale
+19:36:50.022 [main] INFO  testCases.HomePageTest - Total news : 12
+19:36:52.020 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:36:52.143 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:36:52.260 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:36:52.398 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:36:52.499 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:36:52.607 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:36:52.729 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:36:52.836 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:36:52.958 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:36:53.094 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:36:53.229 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:36:53.451 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:37:04.731 [main] INFO  testCases.HomePageTest - NEWS : 
+Cognizant IT (GEO-MWS) Team Wins Award for Best Internal IT Deployment
+Congratulations to the Cognizant IT (GEO-MWS) team for being awarded the honor of being the Best Internal IT Deployment of LogMeIn Rescue in the GST Virtual Think Tank 2024. The LogMeIn Rescue is a platform on which our Global Service Desk (GSD) team relies to support all our associates globally.
+ 
+The award was presented based on the usage, adoption and KPI achievement of the platform, and our team ticked all the boxes of the measurement criteria. Kudos to everyone involved in this achievement. 
+

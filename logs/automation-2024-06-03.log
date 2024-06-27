@@ -1,0 +1,52 @@
+19:35:51.444 [main] INFO  testCases.HomePageTest - IT News is Avilabale
+19:35:51.739 [main] INFO  testCases.HomePageTest - IT Awards                                                                                                              is Avilabale
+19:35:51.941 [main] INFO  testCases.HomePageTest - Total news : 12
+19:35:54.201 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:35:54.340 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:35:54.491 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:35:54.630 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:35:54.786 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:35:54.923 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:35:55.055 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:35:55.234 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:35:55.384 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:35:55.518 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:35:55.722 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:35:55.926 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:36:01.892 [main] INFO  testCases.HomePageTest - NEWS : 
+Cognizant IT (GEO-MWS) Team Wins Award for Best Internal IT Deployment
+Congratulations to the Cognizant IT (GEO-MWS) team for being awarded the honor of being the Best Internal IT Deployment of LogMeIn Rescue in the GST Virtual Think Tank 2024. The LogMeIn Rescue is a platform on which our Global Service Desk (GSD) team relies to support all our associates globally.
+ 
+The award was presented based on the usage, adoption and KPI achievement of the platform, and our team ticked all the boxes of the measurement criteria. Kudos to everyone involved in this achievement. 
+
+19:36:07.481 [main] INFO  testCases.HomePageTest - NEWS : 
+Rishabh Raj becomes EC Council Disaster Recovery Professional
+Congratulations to Rishabh Raj, Sr. Business Analyst, from the IT Resilience Office for successfully completing an external certification - EC Council Disaster Recovery Professional (EDRP). The achievement has equipped him with extensive knowledge on the effective strategies for data backup, system redundancy, availability, and incident response. This would help the concerned team in effectively dealing with potential disasters and ensuring continuity to the critical IT applications.
+
+19:36:13.162 [main] INFO  testCases.HomePageTest - NEWS : 
+IT Team Wins Two Awards at the DevOps India Summit 2023
+Congratulations to the IT team for winning the “DevSecOps Cultural Transformation Award” and the “Best Value Stream Management (VSM) Implementation Project” award at the prestigious DevOps India Summit 2023, organized by Xellentro.com.
+The honor was awarded for the best implementation of DevSecOps within IT, which transformed and optimized delivery excellence, customer satisfaction, and operational effectiveness.
+
+19:36:35.874 [main] INFO  testCases.HomePageTest - ******************* Strating Be.Cognizant ***********************
+19:36:45.907 [main] INFO  testCases.HomePageTest - Clicked on profile
+19:36:46.184 [main] INFO  testCases.HomePageTest - Name Displayed : N, Yashvanth (Contractor)
+19:36:46.407 [main] INFO  testCases.HomePageTest - Email Displayed : 2318647@cognizant.com
+19:36:47.320 [main] INFO  testCases.HomePageTest - cooprative function clicked....
+19:36:48.702 [main] INFO  testCases.HomePageTest - ******************* Strating Golabl IT ***********************
+19:37:04.383 [main] INFO  testCases.HomePageTest - IT Outage Alert is Available
+19:37:11.508 [main] INFO  testCases.HomePageTest - Global IT is Available
+19:37:17.930 [main] INFO  testCases.HomePageTest - Global IT is Available
+19:37:24.419 [main] INFO  testCases.HomePageTest - Global IT is Available
+19:37:31.003 [main] INFO  testCases.HomePageTest - Global IT is Available
+19:37:36.425 [main] INFO  testCases.HomePageTest - IT News is Avilabale
+19:37:36.759 [main] INFO  testCases.HomePageTest - IT Awards                                                                                                              is Avilabale
+19:37:37.170 [main] INFO  testCases.HomePageTest - Total news : 12
+19:37:38.661 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:37:38.767 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:37:38.885 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:37:39.019 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:37:39.120 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:37:39.225 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:37:39.334 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True
+19:37:39.434 [main] INFO  testCases.HomePageTest - ToolTip Matches Heading : True

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="14" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-07T15:28:56 IST" name="Suite" finished-at="2024-06-07T15:30:38 IST" duration-ms="102410">
+    <groups>
+    </groups>
+    <test started-at="2024-06-07T15:28:56 IST" name="Test" finished-at="2024-06-07T15:30:38 IST" duration-ms="102410">
+      <class name="testCases.GlobalITTest">
+        <test-method is-config="true" signature="initializePageObjects(java.lang.String)[pri:0, instance:testCases.GlobalITTest@1ffaf86]" started-at="2024-06-07T15:29:19 IST" name="initializePageObjects" finished-at="2024-06-07T15:29:19 IST" duration-ms="29" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePageObjects -->
+        <test-method signature="checkApplications()[pri:1, instance:testCases.GlobalITTest@1ffaf86]" started-at="2024-06-07T15:29:19 IST" name="checkApplications" finished-at="2024-06-07T15:30:01 IST" duration-ms="41920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkApplications -->
+        <test-method signature="scrollToNews()[pri:2, instance:testCases.GlobalITTest@1ffaf86]" started-at="2024-06-07T15:30:01 IST" name="scrollToNews" finished-at="2024-06-07T15:30:07 IST" duration-ms="5205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollToNews -->
+        <test-method signature="scrollToAwards()[pri:3, instance:testCases.GlobalITTest@1ffaf86]" started-at="2024-06-07T15:30:07 IST" name="scrollToAwards" finished-at="2024-06-07T15:30:07 IST" duration-ms="414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollToAwards -->
+        <test-method signature="getNewsCount()[pri:4, instance:testCases.GlobalITTest@1ffaf86]" started-at="2024-06-07T15:30:07 IST" name="getNewsCount" finished-at="2024-06-07T15:30:08 IST" duration-ms="143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getNewsCount -->
+        <test-method signature="checkITNewsToolTip()[pri:5, instance:testCases.GlobalITTest@1ffaf86]" started-at="2024-06-07T15:30:08 IST" name="checkITNewsToolTip" finished-at="2024-06-07T15:30:10 IST" duration-ms="2435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkITNewsToolTip -->
+        <test-method signature="printItNews()[pri:6, instance:testCases.GlobalITTest@1ffaf86]" started-at="2024-06-07T15:30:10 IST" name="printItNews" finished-at="2024-06-07T15:30:27 IST" duration-ms="16896" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printItNews -->
+      </class> <!-- testCases.GlobalITTest -->
+      <class name="testCases.HomePageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.HomePageTest@1e0b4072]" started-at="2024-06-07T15:28:56 IST" name="setup" finished-at="2024-06-07T15:29:07 IST" duration-ms="10939" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="initializePageObjects(java.lang.String)[pri:0, instance:testCases.HomePageTest@1e0b4072]" started-at="2024-06-07T15:29:07 IST" name="initializePageObjects" finished-at="2024-06-07T15:29:07 IST" duration-ms="84" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePageObjects -->
+        <test-method signature="clickProfile()[pri:1, instance:testCases.HomePageTest@1e0b4072]" started-at="2024-06-07T15:29:07 IST" name="clickProfile" finished-at="2024-06-07T15:29:11 IST" duration-ms="4063" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickProfile -->
+        <test-method signature="getName()[pri:2, instance:testCases.HomePageTest@1e0b4072]" started-at="2024-06-07T15:29:12 IST" name="getName" finished-at="2024-06-07T15:29:12 IST" duration-ms="368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getName -->
+        <test-method signature="getEmail()[pri:3, instance:testCases.HomePageTest@1e0b4072]" started-at="2024-06-07T15:29:13 IST" name="getEmail" finished-at="2024-06-07T15:29:13 IST" duration-ms="210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEmail -->
+        <test-method signature="clickCoFun()[pri:4, instance:testCases.HomePageTest@1e0b4072]" started-at="2024-06-07T15:29:13 IST" name="clickCoFun" finished-at="2024-06-07T15:29:14 IST" duration-ms="592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickCoFun -->
+        <test-method signature="clickSecurity()[pri:5, instance:testCases.HomePageTest@1e0b4072]" started-at="2024-06-07T15:29:14 IST" name="clickSecurity" finished-at="2024-06-07T15:29:15 IST" duration-ms="590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickSecurity -->
+        <test-method signature="clickIT()[pri:6, instance:testCases.HomePageTest@1e0b4072]" started-at="2024-06-07T15:29:15 IST" name="clickIT" finished-at="2024-06-07T15:29:18 IST" duration-ms="2567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickIT -->
+        <test-method is-config="true" signature="close(java.lang.String)[pri:0, instance:testCases.HomePageTest@1e0b4072]" started-at="2024-06-07T15:30:27 IST" name="close" finished-at="2024-06-07T15:30:38 IST" duration-ms="11153" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testCases.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
